@@ -1,0 +1,13 @@
+{
+  "network": "bohr",
+  "chainId": 968,
+  "deployer": "0x6077f348f9Af8349586C250E3aDC5a78d6E28362",
+  "token": "0xe0527be1264bd02da586f3b49cbd125d8f2ce8d1",
+  "spray": "0xb4f6ff5b75cfd22aaef3158b2fafaf3d2adfaddf",
+  "deployBlock": 29424239,
+  "txs": {
+    "token": "0xb72e8556996829e4f290e895c9dea145d2365993d50a9d0b6c1d4c692e7fc4fc",
+    "spray": "0xaa113e100cff7ad8ac365f79ca829385a1d4298af5d0e740e09a31a732fbcc99"
+  },
+  "deployedAt": "2026-11-06T01:14:22.102Z"
+}
