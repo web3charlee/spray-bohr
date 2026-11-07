@@ -1,0 +1,13 @@
+{
+  "network": "botmainnet",
+  "chainId": 677,
+  "deployer": "0x5BaFc7550EAE0409a259580b45D98DB9e2731cc0",
+  "token": "0xaBabc7Ddc03e501d190C676BF3d92ef0e6e87a3C",
+  "spray": "0xa790d5ebec6b707d1a5418a91bc35f8ae47a2ce8",
+  "deployBlock": 29431732,
+  "txs": {
+    "token": null,
+    "spray": "0x63b119b043c84fb481a67a0c651b2766af3d5b0ba7c87e040884783babca6b27"
+  },
+  "deployedAt": "2026-11-07T13:30:34.000Z"
+}
